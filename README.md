@@ -17,7 +17,7 @@ It allows a player to choose rock, paper, or scissors against a computer opponen
 4. The result is displayed with a color indicating win, loss, or tie.
 5. Player and computer scores are updated and shown live on the screen.
 
-<img width="609" height="627" alt="Screenshot 2025-09-12 181056" src="https://github.com/user-attachments/assets/644830fd-5935-4df4-b5be-20e21be4b193" />
+<img width="529" height="527" alt="Screenshot 2025-09-12 181056" src="https://github.com/user-attachments/assets/644830fd-5935-4df4-b5be-20e21be4b193" />
 
 
 
