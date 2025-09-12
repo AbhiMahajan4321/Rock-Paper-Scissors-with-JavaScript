@@ -10,7 +10,7 @@ It allows a player to choose rock, paper, or scissors against a computer opponen
 - Real-time score tracking for both player and computer.
 - Clean and simple UI with hover effects and responsive design.
 
-# HWorking:
+# Working:
 1. The player selects rock, paper, or scissors by clicking a button.
 2. The computer randomly selects one of the three options.
 3. The game logic compares choices to determine the winner.
