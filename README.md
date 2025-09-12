@@ -3,24 +3,22 @@
 This project is a Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 It allows a player to choose rock, paper, or scissors against a computer opponent, shows the winner of each round, updates scores in real time, and provides a colorful, responsive interface.
 
-# Features
+# Features:
 - Interactive gameplay with clickable buttons for rock, paper, and scissors.
 - Displays both the player’s and the computer’s choices after each round.
 - Determines the winner and displays the result with color-coded feedback.
 - Real-time score tracking for both player and computer.
 - Clean and simple UI with hover effects and responsive design.
 
-# How It Works
+# HWorking:
 1. The player selects rock, paper, or scissors by clicking a button.
 2. The computer randomly selects one of the three options.
 3. The game logic compares choices to determine the winner.
 4. The result is displayed with a color indicating win, loss, or tie.
 5. Player and computer scores are updated and shown live on the screen.
 
-# Requirements
-HTML5
-CSS3
-JavaScript (ES6+)
+<img width="609" height="627" alt="Screenshot 2025-09-12 181056" src="https://github.com/user-attachments/assets/644830fd-5935-4df4-b5be-20e21be4b193" />
+
 
 
 
